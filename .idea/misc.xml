@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable-xxhdpi/a.xml" value="0.162" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable-xxhdpi/b.xml" value="0.162" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable-xxhdpi/radiobuttonbg.xml" value="0.162" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable-xxhdpi/rounded_btn.xml" value="0.162" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable-xxhdpi/rounded_edtxt.xml" value="0.162" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/drawable-xxhdpi/screen_back.xml" value="0.162" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_developer.xml" value="0.4" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_main2.xml" value="0.21784420289855072" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_questions.xml" value="0.264" />
+        <entry key="..\:/QuizApp-Android/QuizApp-Android/app/src/main/res/layout/activity_result.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
