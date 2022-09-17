@@ -6,18 +6,7 @@ QuizBee is an android based application, and enables the user to undertake a ser
 <br>There are four Activities in the app :<br>
 <ol>
 <li> <b>Main </b>– displays Home Screen of application.
-<li> <b>Questions </b>– displays MCQ’s and currents Score.
+<li> <b>Questions </b>– Displays MCQ’s and currents Score.
 <li> <b>Results </b>– displays Results after finishing the quiz.
 <li> <b>Developers </b>– displays the information about the developers.</ol>
 
-## Sreenshot
-
-<p id="img_cont">
-	<img src="/screenshot/pic1.png" width = "200" height= "350" hspace=40>
-	<img src="/screenshot/pic2.png" width = "200" height= "350" hspace=40>
-	<img src="/screenshot/pic3.png" width = "200" height= "350" hspace=40>
-</p>
-
-If you have any queries or suggestions you can mail me: vkasojhaa@gmail.com
-
-You are welcome to suggest any changes, just send a pull request.
