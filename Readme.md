@@ -10,7 +10,7 @@ QuizApp is an android based application, and enables the user to undertake a ser
 <li> <b>Results </b>– displays Results after finishing the quiz.
 <li> <b>Developers </b>– displays the information about the developers.</ol>
 
-##Snapshots:
+# Snapshots:
 <br>
 
 ![Screenshot_20220916-143934](https://github.com/darshansutar/IntrenProject_QuizApp/assets/71136052/fac878c8-a3e9-4960-8655-66fca93db834)
